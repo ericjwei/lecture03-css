@@ -1,6 +1,17 @@
 /* Add your CSS rules here.
    Do not modify the HTML, no matter how much you want to!
 */
+.blue {
+    color: blue;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: red;
+}
+
+
+
 circle {
     fill:#5f5f5f;
 }
